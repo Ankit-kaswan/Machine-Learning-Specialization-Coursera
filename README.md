@@ -1,4 +1,8 @@
-# Machine-Learning-Specialization-Coursera
+# [Machine-Learning-Specialization-Coursera](https://www.coursera.org/specializations/machine-learning-introduction?#courses)
+
+<center>
+  <img src="https://github.com/Ankit-kaswan/Machine-Learning-Specialization-Coursera/blob/main/Machine-Learning.png" alt="The title">
+</center>
 
 
 ## WHAT YOU WILL LEARN
