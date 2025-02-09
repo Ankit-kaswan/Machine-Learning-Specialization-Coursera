@@ -21,8 +21,14 @@
 - Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
 - Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
 
+## [COURSE 2 - Advanced Learning Algorithms:](https://github.com/Ankit-kaswan/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms)
+
+- Build and train a neural network with TensorFlow to perform multi-class classification.
+- Apply best practices for machine learning development so that your models generalize to data and tasks 
+
 ---
 
 ## Certificate
 
 1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/58TZD3N54UQS)
+2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/MXRPTR3XE8EL)
