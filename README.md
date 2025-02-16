@@ -26,9 +26,18 @@
 - Build and train a neural network with TensorFlow to perform multi-class classification.
 - Apply best practices for machine learning development so that your models generalize to data and tasks 
 
+## [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/Ankit-kaswan/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+
+- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+- Build a deep reinforcement learning model
+- Build recommender systems with a collaborative filtering approach and a content-based deep learning method
+
 ---
 
 ## Certificate
 
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/58TZD3N54UQS)
-2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/MXRPTR3XE8EL)
+1. [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KWWBROVV13QM)
+2. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/58TZD3N54UQS)
+3. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/MXRPTR3XE8EL)
+4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/1EL4GQO9OIC2)
+
